@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE SecureCookie_Delete
 (
     WhereUserGuid            BINARY(16),

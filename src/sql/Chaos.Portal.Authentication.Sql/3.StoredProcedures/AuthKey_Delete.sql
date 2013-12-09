@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AuthKey_Delete
 (
 	Name		VARCHAR(255),

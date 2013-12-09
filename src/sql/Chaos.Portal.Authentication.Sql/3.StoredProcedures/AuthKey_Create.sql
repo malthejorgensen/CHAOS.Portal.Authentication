@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AuthKey_Create 
 (
 	Token		VARCHAR(255),

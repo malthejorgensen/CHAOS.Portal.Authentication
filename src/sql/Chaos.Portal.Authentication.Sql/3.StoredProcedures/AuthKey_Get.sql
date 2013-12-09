@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AuthKey_Get 
 (
 	Token		VARCHAR(255),

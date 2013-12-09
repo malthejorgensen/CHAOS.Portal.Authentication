@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE WayfProfile_Update
 (
     UserGuid	BINARY(16),

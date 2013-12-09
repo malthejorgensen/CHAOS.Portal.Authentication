@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE SecureCookie_Get
 (
     UserGuid			BINARY(16),

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE EmailPassword_Update
 (
     UserGUID	BINARY(16),

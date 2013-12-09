@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE WayfProfile_Get
 (
     WayfId	VARCHAR(256)

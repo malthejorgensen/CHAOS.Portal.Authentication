@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Facebook_User_Join_Get
 (
 	FacebookUserId	BIGINT(20)

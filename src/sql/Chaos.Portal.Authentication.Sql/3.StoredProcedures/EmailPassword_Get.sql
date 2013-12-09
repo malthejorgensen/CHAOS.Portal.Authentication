@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE EmailPassword_Get
 (
     UserGuid        BINARY(16),
