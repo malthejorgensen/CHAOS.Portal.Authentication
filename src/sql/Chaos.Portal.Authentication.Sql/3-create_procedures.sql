@@ -1,0 +1,14 @@
+source 3.StoredProcedures/AuthKey_Create.sql
+source 3.StoredProcedures/AuthKey_Delete.sql
+source 3.StoredProcedures/AuthKey_Get.sql
+source 3.StoredProcedures/EmailPassword_Create.sql
+source 3.StoredProcedures/EmailPassword_Get.sql
+source 3.StoredProcedures/EmailPassword_Update.sql
+source 3.StoredProcedures/Facebook_User_Join_Create.sql
+source 3.StoredProcedures/Facebook_User_Join_Get.sql
+source 3.StoredProcedures/SecureCookie_Create.sql
+source 3.StoredProcedures/SecureCookie_Delete.sql
+source 3.StoredProcedures/SecureCookie_Get.sql
+source 3.StoredProcedures/SecureCookie_Use.sql
+source 3.StoredProcedures/WayfProfile_Get.sql
+source 3.StoredProcedures/WayfProfile_Update.sql
