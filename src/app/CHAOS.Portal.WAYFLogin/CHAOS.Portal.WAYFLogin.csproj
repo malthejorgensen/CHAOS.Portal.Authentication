@@ -23,7 +23,7 @@
     <RootNamespace>CHAOS.Portal.WAYFLogin</RootNamespace>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <!--<Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />-->
   <ProjectExtensions>
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
@@ -60,5 +60,5 @@
   <ItemGroup>
     <Content Include="WayfConfiguration.php" />
   </ItemGroup>
-  <Import Project="$(VSToolsPath)\TypeScript\Microsoft.TypeScript.targets" />
+  <!--<Import Project="$(VSToolsPath)\TypeScript\Microsoft.TypeScript.targets" />-->
 </Project>
